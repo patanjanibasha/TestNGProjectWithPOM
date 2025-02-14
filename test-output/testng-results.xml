@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-02-14T12:04:41 IST" name="Default suite" finished-at="2025-02-14T12:04:51 IST" duration-ms="10358">
+    <groups>
+    </groups>
+    <test started-at="2025-02-14T12:04:41 IST" name="Default test" finished-at="2025-02-14T12:04:51 IST" duration-ms="10358">
+      <class name="com.mystoreapp.testcases.LoginPageTest">
+        <test-method is-config="true" signature="loadConfig()[pri:0, instance:com.mystoreapp.testcases.LoginPageTest@242b836]" started-at="2025-02-14T12:04:41 IST" name="loadConfig" finished-at="2025-02-14T12:04:41 IST" duration-ms="16" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loadConfig -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.mystoreapp.testcases.LoginPageTest@242b836]" started-at="2025-02-14T12:04:41 IST" name="setUp" finished-at="2025-02-14T12:04:48 IST" duration-ms="6969" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="loginTest()[pri:0, instance:com.mystoreapp.testcases.LoginPageTest@242b836]" started-at="2025-02-14T12:04:48 IST" name="loginTest" finished-at="2025-02-14T12:04:51 IST" duration-ms="3038" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.mystoreapp.testcases.LoginPageTest@242b836]" started-at="2025-02-14T12:04:51 IST" name="tearDown" finished-at="2025-02-14T12:04:51 IST" duration-ms="243" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.mystoreapp.testcases.LoginPageTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
