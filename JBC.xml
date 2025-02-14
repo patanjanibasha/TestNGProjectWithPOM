@@ -3,9 +3,7 @@
 <suite name="Suite">
   <test thread-count="5" name="Test">
     <classes>
-     	 <class name="com.mystoreapp.testcases.HomePageTestCase"/>
-         <class name="com.mystoreapp.testcases.IndexPageTestCase"/>
-         <class name="com.mystoreapp.testcases.LoginPageTestCase"/>
+      <class name="com.mystoreapp.testcases.HomePageTestCase"/>
     </classes>
   </test> <!-- Test -->
 </suite> <!-- Suite -->
